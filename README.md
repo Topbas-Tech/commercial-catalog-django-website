@@ -4,12 +4,13 @@ Web based solution aims to present products as a catalog for commercial purposes
 
 # Developer Contact
 
-Back-End 
-Muhammet Cüneyt Topbaş
-+90 530 035 46 85
+Back-End <br>
+Muhammet Cüneyt Topbaş <br>
++90 530 035 46 85 <br>
 
-Front-End
-Esat Sami Topbaş
-+90 530 035 46 86
+Front-End <br>
+Esat Sami Topbaş <br>
+esatopbas@gmail.com <br>
++90 530 035 46 86 <br>
 
 Feel free to call
